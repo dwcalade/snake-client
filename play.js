@@ -9,3 +9,4 @@ console.log('Connecting ...');
 
 setupInput(connection);
 
+module.exports = { connect };

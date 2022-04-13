@@ -26,3 +26,4 @@ const handleUserInput = (input) => {
 };
 
 
+module.exports = setupInput;
